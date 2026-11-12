@@ -1,16 +1,16 @@
-# 🌐 Network Diagnostics & Infrastructure Testing Suite
+# Network Diagnostics & Infrastructure Testing Suite
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking%20%26%20TCP%2FIP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-> 🇺🇸 **English:** Cross-platform network diagnostics toolkit built with **Python** and **PowerShell** for IT infrastructure troubleshooting: concurrent TCP port scanning (DNS, LDAP, Kerberos, SMB, RDP, SSH, HTTPS), DNS resolution verification, and Active Directory Domain Controller connectivity checks.
+> **English:** Cross-platform network diagnostics toolkit built with **Python** and **PowerShell** for IT infrastructure troubleshooting: concurrent TCP port scanning (DNS, LDAP, Kerberos, SMB, RDP, SSH, HTTPS), DNS resolution verification, and Active Directory Domain Controller connectivity checks.
 >
-> 🇧🇷 **Português:** Ferramentas de diagnóstico de rede multiplataforma em **Python** e **PowerShell** para troubleshooting de infraestrutura de TI: verificação concorrente de portas TCP (DNS, LDAP, Kerberos, SMB, RDP, SSH, HTTPS), testes de resolução DNS e validação de conectividade com Controladores de Domínio (AD).
+> **Português:** Ferramentas de diagnóstico de rede multiplataforma em **Python** e **PowerShell** para troubleshooting de infraestrutura de TI: verificação concorrente de portas TCP (DNS, LDAP, Kerberos, SMB, RDP, SSH, HTTPS), testes de resolução DNS e validação de conectividade com Controladores de Domínio (AD).
 
 ---
 
-## 📂 Included Tools / Ferramentas Inclusas
+## Included Tools / Ferramentas Inclusas
 
 | File | Description (EN) | Descrição (PT-BR) |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Usage Examples / Exemplos de Uso
+## Usage Examples / Exemplos de Uso
 
 ### 1. Python Infrastructure Scanner (`network_scanner.py`)
 ```bash
